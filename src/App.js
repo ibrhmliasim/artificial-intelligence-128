@@ -1,11 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import NavLink from './components/Navbar'
+
+//Components START
+import Navbar from './components/Navbar'
+//Components END
 
 function App() {
   return (
-    <div className="App">
-      <NavLink />
+    <div className="wrapper">
+      <Navbar />
     </div>
   );
 }
