@@ -5,7 +5,7 @@ import './Navbar.css'
 import './Button.css'
 
 import myCompanyLogo from '../assets/images/logo.svg'
-import SignInButton from './Button'
+import Button from './Button'
 
 // ICONLAR HISSESI
 import {AiOutlineBars} from 'react-icons/ai'
@@ -37,17 +37,17 @@ return (
 
   <div className="overlay" ref={overlayDivinRefi}>
 
-  <button onClick={menyunuBagla} className='baglama-iconu'><GiCrossedSwords className='x-icon'/> </button>
+      <button onClick={menyunuBagla} className='baglama-iconu'><GiCrossedSwords className='x-icon'/> </button>
 
-  <div className="nav-links">
-    <a href="">Home</a>
-    <a href="">About</a>
-    <a href="">Services</a>
-    <a href="">Blog</a>
-    <a href="mailto:info@anvarkhalid.com">Contact</a>
+      <div className="nav-links">
+          <a href="">Home</a>
+          <a href="">About</a>
+          <a href="">Services</a>
+          <a href="">Blog</a>
+          <a href="mailto:info@anvarkhalid.com">Contact</a>
+      </div>
+
   </div>
-
-    </div>
 
 
     <nav className="navbar navbar-expand-lg">
@@ -81,8 +81,8 @@ return (
         </li>
 
       </ul>
-      <SignInButton/>
 
+      <Button butonunIcindekiDeyer="Sign In" klassAdi="navbar-button"/>
     </div>
   </div>
     </nav>

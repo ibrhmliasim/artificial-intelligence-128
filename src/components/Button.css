@@ -1,8 +1,17 @@
-.navbardaki-button{
+.navbar-button{
     background: #3A68B8;
     border-radius: 5px;
     color: #fff;
     border: none;
-    padding: 7px 25px;
+    padding: 7px 15px;
 }
 
+.margin-right{
+    margin-right: 20px;
+}
+
+.play-icon{
+    margin-bottom: 2px;
+    width: 15px;
+    margin-right: 10px;
+}

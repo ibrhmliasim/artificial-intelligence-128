@@ -1,0 +1,83 @@
+.shirketler-divi{
+    width: 1490px;
+    padding: 60px 180px 120px 150px;
+}
+
+.shirketin-logosu{
+    width: 226px;
+    object-fit: cover;
+}
+
+@media (max-width:2440px){
+    .shirketler-divi{
+        width: 1500px;
+        padding: 60px 0px 120px 190px;
+    }
+
+    .shirketin-logosu{
+        width: 226px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width:1280px){
+    .shirketler-divi{
+        width: 1350px;
+        padding: 60px 115px 120px 75px;
+    }
+
+    .shirketin-logosu{
+        width: 226px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width:1100px){
+
+    .shirketler-divi{
+        width: 1150px;
+        padding: 60px 115px 120px 90px;
+    }
+
+    .shirketin-logosu{
+        width: 206px;
+        object-fit: cover;
+    }
+}
+
+@media(max-width:992px){
+    .shirketler-divi{
+        width: 900px;
+        padding: 155px 25px 95px 95px;
+    }
+
+    .shirketin-logosu{
+        width: 226px;
+        object-fit: cover;
+    }
+}
+
+@media(max-width:768px){
+    .shirketler-divi{
+        width: 800px;
+        padding: 60px 75px 120px 110px;
+    }
+
+    .shirketin-logosu{
+        width: 200px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width:576px){
+    .shirketler-divi{
+        width: 500px;
+        padding-left: 65px;
+        padding-top: 10px;
+    }
+
+    .shirketin-logosu{
+        width: 190px;
+        object-fit: cover;
+    }
+}

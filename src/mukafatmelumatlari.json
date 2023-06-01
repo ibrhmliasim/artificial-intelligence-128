@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "bashliq": "Naxly as the Winners in Global Agency Awards",
+        "paraqraf": "111Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "ikon": "https://res.cloudinary.com/dj6iaphai/image/upload/v1685040568/AwardsSection%20SVG/welcome-3_1-1_qcqlbp.svg"
+    },
+
+    {
+        "id": 2,
+        "bashliq": "Expert Prespective Agency Awards",
+        "paraqraf": "222Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "ikon": "https://res.cloudinary.com/dj6iaphai/image/upload/v1685040568/AwardsSection%20SVG/welcome-3_1_matyc0.svg"
+    },
+
+    {
+        "id": 3,
+        "bashliq": "Business Prespective Global Agency Awards",
+        "paraqraf": "333Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "ikon": "https://res.cloudinary.com/dj6iaphai/image/upload/v1685040568/AwardsSection%20SVG/welcome-3_1-2_g3e3ym.svg"
+    },
+
+    {
+        "id": 4,
+        "bashliq": "Value for Results in Global Agency Awards",
+        "paraqraf": "444Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "ikon": "https://res.cloudinary.com/dj6iaphai/image/upload/v1685040568/AwardsSection%20SVG/welcome-3_1-3_e7fpf8.svg"
+    },
+
+    {
+        "id": 5,
+        "bashliq": "Global Experience in Agency Awards",
+        "paraqraf": "555Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "ikon": "https://res.cloudinary.com/dj6iaphai/image/upload/v1685040568/AwardsSection%20SVG/welcome-3_1-4_bmssvt.svg"
+    }
+]
